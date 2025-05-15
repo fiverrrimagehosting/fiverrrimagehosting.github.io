@@ -1,0 +1,38 @@
+body {
+  background: #121212;
+  color: #fff;
+  font-family: 'Segoe UI', sans-serif;
+  padding: 2em;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: #1e1e1e;
+  padding: 2em;
+  border-radius: 8px;
+}
+input, button {
+  padding: 0.5em;
+  margin: 0.5em 0;
+  background: #333;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+button:hover {
+  background: #444;
+}
+a {
+  color: #4da6ff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  margin: 0.5em 0;
+}
